@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Храм Улувату",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.08439421653746,
+          -8.82928974602373
+        ]
+      }
+    }
+  ]
+}
