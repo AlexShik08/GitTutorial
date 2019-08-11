@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#7e7e7e",
+        "marker-color": "#d7b527",
         "marker-size": "medium",
-        "marker-symbol": "",
+        "marker-symbol": "place-of-worship",
         "name": "Храм Улувату",
         "subcat": "Храмы"
       },
@@ -15,6 +15,23 @@
         "coordinates": [
           115.08439421653746,
           -8.82928974602373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d7b527",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Танах Лот",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.08688867092133,
+          -8.621236800515804
         ]
       }
     }
