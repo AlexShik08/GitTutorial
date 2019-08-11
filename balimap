@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#d7b527",
+        "marker-color": "#ffbe19",
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Улувату",
@@ -21,7 +21,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#d7b527",
+        "marker-color": "#ffbe19",
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Танах Лот",
@@ -32,6 +32,176 @@
         "coordinates": [
           115.08688867092133,
           -8.621236800515804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Батуан",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.27597367763519,
+          -8.581689565419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Улун Дану Братан",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.16618013381957,
+          -8.27524070601341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Бесаких",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.45070886611938,
+          -8.375373988939765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Гоа Лава",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.46799302101135,
+          -8.551506566465163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Брахмавихара Арама",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.97414469718935,
+          -8.21132042194717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Лемпуянг",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.6307065486908,
+          -8.391374887873212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Тирта Эмпул",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.31615316867828,
+          -8.414480826780537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Гоа Гаджа",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28674006462097,
+          -8.52355465870669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Таман Аюн",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17247796058655,
+          -8.541936623951726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Гунунг Кави",
+        "subcat": "Храмы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.31262338161467,
+          -8.422711387748093
         ]
       }
     }
