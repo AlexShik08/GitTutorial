@@ -323,6 +323,91 @@
           -8.602805629470481
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Балийский дом",
+        "subcat": "Населенные пункты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26805579662323,
+          -8.586691542662596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Музей Пасифика",
+        "subcat": "Музеи, памятники"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2306604385376,
+          -8.800091510350624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Музей Ого Ого",
+        "subcat": "Музеи, памятники"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17053067684172,
+          -8.543549314018788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Лес Обезьян Убуд",
+        "subcat": "Зоопарки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25910258293152,
+          -8.518180485645939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24b13c",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Ботанический Парк Бедугул",
+        "subcat": "Парки"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15383124351501,
+          -8.276371428549206
+        ]
+      }
     }
   ]
 }
