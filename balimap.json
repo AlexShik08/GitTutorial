@@ -714,6 +714,57 @@
           -8.551336813480464
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Вайт Сэнд",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.61126589775084,
+          -8.499479048474713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Санур",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26458501815796,
+          -8.684808148788319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Амед",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.64595758914946,
+          -8.334522278677156
+        ]
+      }
     }
   ]
 }
