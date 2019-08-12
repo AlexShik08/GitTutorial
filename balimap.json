@@ -871,7 +871,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#a30d30",
+        "marker-color": "#000000",
         "marker-size": "medium",
         "marker-symbol": "triangle",
         "name": "Вулкан Батур",
@@ -916,6 +916,23 @@
         "coordinates": [
           115.13120412826538,
           -8.370369260879436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Вид на озера Буян и Тамблинган",
+        "subcat": "Виды"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.10181784629822,
+          -8.244656882404106
         ]
       }
     }
