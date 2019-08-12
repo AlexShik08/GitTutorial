@@ -765,6 +765,159 @@
           -8.334522278677156
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Тегенунган",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2906882762909,
+          -8.575223497187773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Гит Гит",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.13506650924683,
+          -8.193565317479253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Секумпул",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.18272399902344,
+          -8.178315683797404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Мундук",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.0697922706604,
+          -8.258454668868564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Тукад Чепунг",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.38790762424469,
+          -8.44233454603567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Канто Лампо",
+        "subcat": "Водопады"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.33298134803772,
+          -8.532361136301972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a30d30",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Вулкан Батур",
+        "subcat": "Вулканы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.37796735763548,
+          -8.23946997932572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#438237",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Рисовые террасы Тегаллаланг",
+        "subcat": "Рисовые террасы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.27881681919096,
+          -8.433430488983804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#438237",
+        "marker-size": "medium",
+        "marker-symbol": "garden",
+        "name": "Рисовые террасы Джатилувих",
+        "subcat": "Рисовые террасы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.13120412826538,
+          -8.370369260879436
+        ]
+      }
     }
   ]
 }
