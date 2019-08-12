@@ -408,6 +408,312 @@
           -8.276371428549206
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#48f767",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Плантации кофе Кинтамани",
+        "subcat": "Агро туризм"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.33490180969237,
+          -8.3846721038981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#48f767",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Плантации кофе Бедугул",
+        "subcat": "Агро туризм"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19565761089325,
+          -8.390679671790654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Нуса Дуа",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.23219466209412,
+          -8.79384656298752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Гегер",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.22666931152344,
+          -8.815698116551513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Гунунг Паюнг",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.19974529743193,
+          -8.84074470475564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Пандава",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.18687069416046,
+          -8.845430480662552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Гринбол",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17089545726775,
+          -8.848738051282112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Меласти",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15809059143065,
+          -8.848255699084525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Паданг Паданг",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.10355055332184,
+          -8.811314126250863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Дримленд",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1176643371582,
+          -8.799338729410335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Баланган",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1238441467285,
+          -8.791582876095246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Джимбаран",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.16381978988647,
+          -8.780900419979877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Кута",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1686477661133,
+          -8.718219027931006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Легиан",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.16397535800935,
+          -8.702148261412564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Семиньяк",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15073597431183,
+          -8.681764266449312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Пемутеран",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.65610980987547,
+          -8.143704498850173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Ловина",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.02455413341522,
+          -8.160952055091698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж с черным песком",
+        "subcat": "Пляжи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4736390709877,
+          -8.551336813480464
+        ]
+      }
     }
   ]
 }
