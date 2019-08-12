@@ -204,6 +204,125 @@
           -8.422711387748093
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2c19",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Королевский Дворец Убуд",
+        "subcat": "Дворцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.262610912323,
+          -8.506758127740222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2c19",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Водный Дворец Тирта Ганга",
+        "subcat": "Дворцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58692216873169,
+          -8.412416525828698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff2c19",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "name": "Водный Дворец Уджунг",
+        "subcat": "Дворцы"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.63055098056793,
+          -8.464530117893652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Деревня Тенганан",
+        "subcat": "Населенные пункты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.56623697280885,
+          -8.47760914711071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Деревня Батубулан",
+        "subcat": "Населенные пункты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25814235210419,
+          -8.627516453290628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Деревня Мас",
+        "subcat": "Населенные пункты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.27204155921936,
+          -8.543278764516444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Деревня Челук",
+        "subcat": "Населенные пункты"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25966048240662,
+          -8.602805629470481
+        ]
+      }
     }
   ]
 }
