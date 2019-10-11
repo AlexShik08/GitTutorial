@@ -1276,6 +1276,60 @@
           -8.785576351804016
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Махагири",
+        "subcat": "Пляжи",
+        "place": "Нуса Лембонган"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4513257741928,
+          -8.663383783524278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Подземный дом-музей Гала Гала",
+        "subcat": "Музеи, памятники",
+        "place": "Нуса Лембонган"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.43972253799437,
+          -8.69190867723647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24b13c",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Мангровый лес",
+        "subcat": "Парки",
+        "place": "Нуса Лембонган"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.46725809574127,
+          -8.666883887091291
+        ]
+      }
     }
   ]
 }
