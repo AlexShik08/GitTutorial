@@ -935,6 +935,347 @@
           -8.244656882404106
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006d8f",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Манта Поинт",
+        "subcat": "Дайвинг, снорклинг"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4539918899536,
+          -8.738851499643006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Брокен Бэй",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.45096099376677,
+          -8.732541896091957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Анджелс Биллабонг",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.44891178607939,
+          -8.733437972344147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Карав Дава",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.47421038150786,
+          -8.751178778155989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Келинкинг",
+        "subcat": "Пляжи",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.47327160835266,
+          -8.751056832883132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Манта Поинт 66 Вид",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.52603602409363,
+          -8.791885055239236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006d8f",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Манта Поинт 66 снорклинг",
+        "subcat": "Дайвинг, снорклинг",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.52590727806093,
+          -8.794800806244199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Тысяча островов вид",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.61697363853455,
+          -8.778838113854327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Даймонд",
+        "subcat": "Пляжи",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.61859905719756,
+          -8.77615550827017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Кристал Бэй",
+        "subcat": "Пляжи",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4589968919754,
+          -8.715060025461753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#006d8f",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Бухта Гамат",
+        "subcat": "Дайвинг, снорклинг",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.46734392642975,
+          -8.700525642711677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Атух",
+        "subcat": "Пляжи",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.62199473381042,
+          -8.772916209676202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Палуанг",
+        "subcat": "Храмы",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.47757923603058,
+          -8.753850960191047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffbe19",
+        "marker-size": "medium",
+        "marker-symbol": "place-of-worship",
+        "name": "Храм Гоа Гири",
+        "subcat": "Храмы",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.58598339557648,
+          -8.708760625005445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Утес Бахан",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.48665583133696,
+          -8.767725850719017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Пегуянган",
+        "subcat": "Водопады",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.51837563514711,
+          -8.781441177015207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Утес Сарен",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50163328647614,
+          -8.774676355790655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж и лес Тембелинг",
+        "subcat": "Пляжи",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.49688041210175,
+          -8.770413818908004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Холмы Телепузиков",
+        "subcat": "Виды",
+        "place": "Нуса Пенида"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.57475566864014,
+          -8.785576351804016
+        ]
+      }
     }
   ]
 }
