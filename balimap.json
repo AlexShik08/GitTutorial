@@ -1386,6 +1386,132 @@
           -8.666883887091291
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Парк птиц Бали",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2519679069519,
+          -8.599848602654308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Балийский зоопарк",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.26456356048583,
+          -8.591290333126679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Бали Сафари Парк",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.34683763980865,
+          -8.583583216731476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Парк бабочек Кеменух",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28417587280272,
+          -8.565266916117986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Парк бабочек Табанан",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.13455688953398,
+          -8.479450256685592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Лес обезьян Санге",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.20707845687865,
+          -8.480973012119414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ce5b00",
+        "marker-size": "medium",
+        "marker-symbol": "zoo",
+        "name": "Лес обезьян Алан Кедатон",
+        "subcat": "Зоопарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.15534937381743,
+          -8.52948048554785
+        ]
+      }
     }
   ]
 }
