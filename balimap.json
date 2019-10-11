@@ -8,7 +8,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Улувату",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -25,7 +26,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Танах Лот",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -42,7 +44,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Батуан",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -59,7 +62,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Улун Дану Братан",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -76,7 +80,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Бесаких",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -93,7 +98,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Гоа Лава",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +116,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Брахмавихара Арама",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Лемпуянг",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +152,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Тирта Эмпул",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -161,7 +170,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Гоа Гаджа",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +188,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Таман Аюн",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -195,7 +206,8 @@
         "marker-size": "medium",
         "marker-symbol": "place-of-worship",
         "name": "Храм Гунунг Кави",
-        "subcat": "Храмы"
+        "subcat": "Храмы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -212,7 +224,8 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Королевский Дворец Убуд",
-        "subcat": "Дворцы"
+        "subcat": "Дворцы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +242,8 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Водный Дворец Тирта Ганга",
-        "subcat": "Дворцы"
+        "subcat": "Дворцы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -246,7 +260,8 @@
         "marker-size": "medium",
         "marker-symbol": "monument",
         "name": "Водный Дворец Уджунг",
-        "subcat": "Дворцы"
+        "subcat": "Дворцы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +278,8 @@
         "marker-size": "medium",
         "marker-symbol": "city",
         "name": "Деревня Тенганан",
-        "subcat": "Населенные пункты"
+        "subcat": "Населенные пункты",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -280,7 +296,8 @@
         "marker-size": "medium",
         "marker-symbol": "city",
         "name": "Деревня Батубулан",
-        "subcat": "Населенные пункты"
+        "subcat": "Населенные пункты",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -297,7 +314,8 @@
         "marker-size": "medium",
         "marker-symbol": "city",
         "name": "Деревня Мас",
-        "subcat": "Населенные пункты"
+        "subcat": "Населенные пункты",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -314,7 +332,8 @@
         "marker-size": "medium",
         "marker-symbol": "city",
         "name": "Деревня Челук",
-        "subcat": "Населенные пункты"
+        "subcat": "Населенные пункты",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -331,7 +350,8 @@
         "marker-size": "medium",
         "marker-symbol": "city",
         "name": "Балийский дом",
-        "subcat": "Населенные пункты"
+        "subcat": "Населенные пункты",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -348,7 +368,8 @@
         "marker-size": "medium",
         "marker-symbol": "museum",
         "name": "Музей Пасифика",
-        "subcat": "Музеи, памятники"
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -365,7 +386,8 @@
         "marker-size": "medium",
         "marker-symbol": "museum",
         "name": "Музей Ого Ого",
-        "subcat": "Музеи, памятники"
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -382,7 +404,8 @@
         "marker-size": "medium",
         "marker-symbol": "zoo",
         "name": "Лес Обезьян Убуд",
-        "subcat": "Зоопарки"
+        "subcat": "Зоопарки",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -399,7 +422,8 @@
         "marker-size": "medium",
         "marker-symbol": "park",
         "name": "Ботанический Парк Бедугул",
-        "subcat": "Парки"
+        "subcat": "Парки",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -416,7 +440,8 @@
         "marker-size": "medium",
         "marker-symbol": "park2",
         "name": "Плантации кофе Кинтамани",
-        "subcat": "Агро туризм"
+        "subcat": "Агро туризм",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -433,7 +458,8 @@
         "marker-size": "medium",
         "marker-symbol": "park2",
         "name": "Плантации кофе Бедугул",
-        "subcat": "Агро туризм"
+        "subcat": "Агро туризм",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -450,7 +476,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Нуса Дуа",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -467,7 +494,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Гегер",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -484,7 +512,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Гунунг Паюнг",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -501,7 +530,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Пандава",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +548,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Гринбол",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +566,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Меласти",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -552,7 +584,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Паданг Паданг",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -569,7 +602,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Дримленд",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -586,7 +620,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Баланган",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -603,7 +638,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Джимбаран",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -620,7 +656,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Кута",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -637,7 +674,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Легиан",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -654,7 +692,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Семиньяк",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -671,7 +710,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Пемутеран",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -688,7 +728,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Ловина",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -705,7 +746,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж с черным песком",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -722,7 +764,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Вайт Сэнд",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -739,7 +782,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Санур",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -756,7 +800,8 @@
         "marker-size": "medium",
         "marker-symbol": "swimming",
         "name": "Пляж Амед",
-        "subcat": "Пляжи"
+        "subcat": "Пляжи",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -773,7 +818,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Тегенунган",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +836,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Гит Гит",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -807,7 +854,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Секумпул",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -824,7 +872,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Мундук",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -841,7 +890,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Тукад Чепунг",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -858,7 +908,8 @@
         "marker-size": "medium",
         "marker-symbol": "wetland",
         "name": "Водопад Канто Лампо",
-        "subcat": "Водопады"
+        "subcat": "Водопады",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -875,7 +926,8 @@
         "marker-size": "medium",
         "marker-symbol": "triangle",
         "name": "Вулкан Батур",
-        "subcat": "Вулканы"
+        "subcat": "Вулканы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -892,7 +944,8 @@
         "marker-size": "medium",
         "marker-symbol": "garden",
         "name": "Рисовые террасы Тегаллаланг",
-        "subcat": "Рисовые террасы"
+        "subcat": "Рисовые террасы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -909,7 +962,8 @@
         "marker-size": "medium",
         "marker-symbol": "garden",
         "name": "Рисовые террасы Джатилувих",
-        "subcat": "Рисовые террасы"
+        "subcat": "Рисовые террасы",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -926,7 +980,8 @@
         "marker-size": "medium",
         "marker-symbol": "camera",
         "name": "Вид на озера Буян и Тамблинган",
-        "subcat": "Виды"
+        "subcat": "Виды",
+        "place": "Бали"
       },
       "geometry": {
         "type": "Point",
@@ -942,8 +997,9 @@
         "marker-color": "#006d8f",
         "marker-size": "medium",
         "marker-symbol": "swimming",
-        "name": "Манта Поинт",
-        "subcat": "Дайвинг, снорклинг"
+        "name": "Манта Поинт Олд",
+        "subcat": "Дайвинг, снорклинг",
+        "place": "Нуса Пенида"
       },
       "geometry": {
         "type": "Point",
