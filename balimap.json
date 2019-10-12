@@ -1530,6 +1530,114 @@
           -8.392224005064604
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24b13c",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Пакр Орхидей",
+        "subcat": "Парки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.25686025619505,
+          -8.644434930316809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Вулкан Агунг",
+        "subcat": "Вулканы",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50450861454009,
+          -8.34066331158415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "medium",
+        "marker-symbol": "triangle",
+        "name": "Вулкан Батукару",
+        "subcat": "Вулканы",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.08844435214996,
+          -8.334920360656866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Монумент Гаруда-Вишну",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.16667366027833,
+          -8.814250928406237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#9214cc",
+        "marker-size": "medium",
+        "marker-symbol": "city",
+        "name": "Денпасар",
+        "subcat": "Населенные пункты",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.23409366607666,
+          -8.668352860242988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3a88fe",
+        "marker-size": "medium",
+        "marker-symbol": "airport",
+        "name": "Аэропорт Нгурах Рай",
+        "subcat": "Аэропорты",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.16648054122925,
+          -8.743533262497365
+        ]
+      }
     }
   ]
 }
