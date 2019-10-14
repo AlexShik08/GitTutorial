@@ -2016,6 +2016,60 @@
           -8.528838569620858
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Мост Тукад Банкунг",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.23400783538818,
+          -8.296463773194867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Дерево с тоннелем",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.87348675727844,
+          -8.386683481935624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1279ff",
+        "marker-size": "medium",
+        "marker-symbol": "wetland",
+        "name": "Водопад Гоа Рангренг",
+        "subcat": "Водопады",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.33130764961243,
+          -8.516206930284575
+        ]
+      }
     }
   ]
 }
