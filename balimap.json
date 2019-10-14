@@ -1728,6 +1728,96 @@
           -8.250358680975904
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8c82",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "name": "Горячие источники Банджар",
+        "subcat": "Горячие источники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.96705293655397,
+          -8.210598339873663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Голубая Лагуна",
+        "subcat": "Пляжи",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.51328480243681,
+          -8.529846536296052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Вотерблоу",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.23989260196686,
+          -8.803881898156177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Монумент Пупутан",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.21773219108582,
+          -8.656489544863398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Музей Бали",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2187031507492,
+          -8.65763505788497
+        ]
+      }
     }
   ]
 }
