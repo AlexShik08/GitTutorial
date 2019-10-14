@@ -1638,6 +1638,96 @@
           -8.743533262497365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Биас Тугал",
+        "subcat": "Пляжи",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.50891816616058,
+          -8.53633459496186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Павильон Керта Госа",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.40328741073608,
+          -8.53567147055702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Памятник Пупутан Клунгкунг",
+        "place": "Бали",
+        "subcat": "Музеи, памятники"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.40344297885895,
+          -8.534859804717655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Монумент Баджра Санди",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.23390054702757,
+          -8.671752158766713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8c82",
+        "marker-size": "medium",
+        "marker-symbol": "water",
+        "name": "Горячие источники Тоя Деваса",
+        "subcat": "Горячие источники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3998327255249,
+          -8.250358680975904
+        ]
+      }
     }
   ]
 }
