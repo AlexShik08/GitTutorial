@@ -1872,6 +1872,114 @@
           -8.48376913617331
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Тропа художника Чампухан",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.2545428276062,
+          -8.502333397783609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Бали Свинг",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.24056315422058,
+          -8.4931123935406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Качели на Рисовых террасах",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.28025180101395,
+          -8.439408116081744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Холм Ванагири ",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.10032117366792,
+          -8.246584035815182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Музей Вулкана Батур",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36481380462646,
+          -8.284339479807233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Вид на Вулкан Батур",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.36470651626587,
+          -8.282916814927862
+        ]
+      }
     }
   ]
 }
