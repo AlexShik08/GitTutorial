@@ -1980,6 +1980,42 @@
           -8.282916814927862
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f0e405",
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "name": "Пляж Нянг Нянг",
+        "subcat": "Пляжи",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.10795474052429,
+          -8.844439263808313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#24b13c",
+        "marker-size": "medium",
+        "marker-symbol": "park",
+        "name": "Парк Таман Нуса",
+        "subcat": "Парки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.35632729530333,
+          -8.528838569620858
+        ]
+      }
     }
   ]
 }
