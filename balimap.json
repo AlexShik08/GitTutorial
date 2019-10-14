@@ -1818,6 +1818,60 @@
           -8.65763505788497
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "museum",
+        "name": "Статуя Дельфин",
+        "subcat": "Музеи, памятники",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.02446293830873,
+          -8.161201629416116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Холм Букит Джамбул",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.3975957632065,
+          -8.480309791853381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#48f767",
+        "marker-size": "medium",
+        "marker-symbol": "park2",
+        "name": "Шоколадная фабрика Чарли",
+        "subcat": "Агро туризм",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.61680734157562,
+          -8.48376913617331
+        ]
+      }
     }
   ]
 }
