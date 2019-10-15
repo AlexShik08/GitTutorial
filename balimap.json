@@ -2070,6 +2070,42 @@
           -8.516206930284575
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d60f4e",
+        "marker-size": "medium",
+        "marker-symbol": "camera",
+        "name": "Румах Похон",
+        "subcat": "Виды",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.56984722614287,
+          -8.318375732279247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00c7fd",
+        "marker-size": "medium",
+        "marker-symbol": "dam",
+        "name": "Аквапарк Вотербум",
+        "subcat": "Аквапарки",
+        "place": "Бали"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.17048239707947,
+          -8.72883561701522
+        ]
+      }
     }
   ]
 }
